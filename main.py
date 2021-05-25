@@ -13,7 +13,7 @@ print(plik)
 
 print(plik[plik['Liczba'] < 1000])
 print()
-print(plik[plik.Imie == 'DANIEL'])
+print(plik[plik.Imie == 'MACIEK'])
 print()
 print(sum(plik['Liczba']))
 print()
